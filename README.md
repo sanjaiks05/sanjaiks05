@@ -15,9 +15,11 @@ Artificial Intelligence & Machine Learning Student
 <a href="https://www.linkedin.com/in/sanjai-kumar-s05k06/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/sanjaiks05">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</a>
+
+### I code in 
+<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 
 
 
