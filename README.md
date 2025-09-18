@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there 👋 It's me Sanjai Kumar
 
-💻 AIML Student | ☁️ Cloud Enthusiast | ⚙️ Backend Developer  
+Artificial Intelligence & Machine Learning Student
 
 ---
 
-- 🔭 Working on **Life Donor** – a platform for real-time blood & organ donation  
-- 🌱 Learning **AWS, Python, and Automation**  
-- 👯 Open to collaborate on **AI/ML & Cloud projects**  
-- 📫 Reach me: [GitHub](https://github.com/sanjaiks05) | [LinkedIn](your-linkedin-here)  
+- 🔭 I'm currently Working on **Life Donor** – a platform for real-time blood & organ donation  
+- 🌱 I'm currently Learning **Python**  
+- 👯 I'm Open to collaborate on **AI/ML & Cloud projects**  
+- 📫 How to reach me:
+<br /> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaiks7800@gmail.com)
+
