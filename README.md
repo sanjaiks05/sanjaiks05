@@ -24,6 +24,11 @@ Artificial Intelligence & Machine Learning Student
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sanjai0707?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/sanjai0707/)
 
+### 📊 GitHub Activity Graph  
+
+[![Sanjai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjaiks05&bg_color=3a3638&color=ecdfeb&line=d232c7&point=ece4e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activit)
+
+
 
 
 
