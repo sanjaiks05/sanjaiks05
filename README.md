@@ -15,6 +15,10 @@ Artificial Intelligence & Machine Learning Student
 <a href="https://www.linkedin.com/in/sanjai-kumar-s05k06/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://github.com/sanjaiks05">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</a>
+
 
 
 
